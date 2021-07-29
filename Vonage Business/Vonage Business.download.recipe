@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Vonage Business.</string>
 	<key>Identifier</key>
-	<string>com.github.lafs.download.VonageBusiness</string>
+	<string>com.github.bquachlafs.download.VonageBusiness</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
